@@ -83,6 +83,6 @@ The table below lists the scripts used to generate each main and supplementary f
 ## Contact
 
 Jüri Reimand  
-Ontario Institute for Cancer Research  
+Ontario Institute for Cancer Research, Toronto, ON, Canada  
 Department of Molecular Genetics, University of Toronto  
 Email: juri.reimand [@] utoronto.ca
