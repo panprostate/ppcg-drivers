@@ -79,3 +79,10 @@ The table below lists the scripts used to generate each main and supplementary f
 | Fig. S29 | `007d_organise_TCGA_RGAs__FS29.R` |
 | Fig. S30 | `007e_cluster_TCGA_RGAs__F5E_FS30.R` |
 | Fig. S31 | `005f_compare_RGA_and_mutProcesses_clusters__FS31.R` |
+
+## Contact
+
+Jüri Reimand
+Ontario Institute for Cancer Research  
+Department of Molecular Genetics, University of Toronto  
+Email: juri.reimand [@] utoronto.ca
